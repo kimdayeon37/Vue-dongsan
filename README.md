@@ -1,4 +1,4 @@
-# vuedongsan
+# 부동산 애플리케이션 미니 프로젝트
 
 ## ⚡ 기술 스택
 <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
